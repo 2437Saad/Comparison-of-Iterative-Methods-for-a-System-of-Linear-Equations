@@ -1,2 +1,11 @@
 # Comparison-of-Iterative-Methods-for-a-System-of-Linear-Equations
-A study comparing Jacobi, Gauss-Seidel, and SOR methods using Python with problem solutions and error analysis.
+This project explores and compares three classical iterative methods:
+- Jacobi Method
+- Gauss-Seidel Method
+- Successive Over-Relaxation (SOR) Method
+
+The goal is to solve systems of linear equations and analyze the number of iterations, error reduction, and time taken by each method.
+
+
+
+
