@@ -1,0 +1,7 @@
+,,                   CPU  Times (s),,
+Methods,,Problem1,Problem2,Problem3
+Jacobi,,0.0562,0.0965,0.1177
+Gauss-Seidel,,0.0243,0.0467,0.0246
+SOR,,0.0078,0.0129,0.0146
+,,,,
+,,,,
